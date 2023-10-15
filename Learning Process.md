@@ -32,7 +32,7 @@ The most interesting story or idea for me was about Barbara Oakley’s personal 
 9. Use a general to precise approach to learning.
  
  
-5. What are some of the actions you can take going forward to improve your learning process?
-.Continue to learn about different learning techniques and strategies.
-.Focus on active learning.
-.Use my strengths and address my weaknesses.
+###  What are some of the actions you can take going forward to improve your learning process?
+1. Continue to learn about different learning techniques and strategies.
+2. Focus on active learning.
+3. Use my strengths and address my weaknesses.
