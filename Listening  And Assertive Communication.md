@@ -33,9 +33,9 @@
 
 
 ###  When do you switch to Passive communication style in your day to day life?
-. when i am feeling overwhelming and stressed. 
-. When i don't want to get engage in a conversation.
-. I am dealing with the person who is more agressive.
+1. when i am feeling overwhelming and stressed. 
+2. When i don't want to get engage in a conversation.
+3. I am dealing with the person who is more agressive.
 
 
 ###  When do you switch into Aggressive communication styles in your day to day life?
