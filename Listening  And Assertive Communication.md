@@ -1,4 +1,4 @@
-#Listening And Assertive Communication
+# Listening And Assertive Communication
 ###  What are the steps/strategies to do Active Listening? (Minimum 6 points)?
 
 1. Be fully present.  
