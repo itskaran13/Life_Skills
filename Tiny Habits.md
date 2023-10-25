@@ -27,7 +27,14 @@ and increase the effort or obstacles required to perform the habit (making it di
 
  
 ## Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more attractive or easy and or response satisfying?
-Specify the habit you want to do more of, and I'll provide steps to make it more obvious, attractive, or easier.
+Habit to Do More of: Regular Exercise i am unactive right now to doing exercise
+To Make It More Attractive:
+1. Set clear fitness goals.
+2.  Exercise with friends or in groups for socializing.
 
 ## Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?
-Please specify the habit you'd like to eliminate or do less of, and I can provide steps to make the cue invisible, the process unattractive, or harder, or the response unsatisfying.
+Habit to Eliminate or Do Less of: Excessive Social Media Usage.
+To Make it More unattractive :
+Track how much time you spend.
+Set time limits for social media.
+
